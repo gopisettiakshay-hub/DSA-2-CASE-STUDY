@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PrimsMST {
+public class PrimsMSTCO_3 {
     static final int V = 5;
 
     int minKey(int key[], boolean mstSet[]) {
