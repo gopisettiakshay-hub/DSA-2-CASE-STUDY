@@ -8,7 +8,7 @@ class BSTNode {
     }
 }
 
-public class BSTExample {
+public class BSTExampleCO_1 {
     BSTNode root;
 
     BSTNode insert(BSTNode root, int key) {
