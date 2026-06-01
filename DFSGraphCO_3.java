@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DFSGraph {
+public class DFSGraphCO_3 {
     private int V;
     private LinkedList<Integer>[] adj;
 
