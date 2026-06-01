@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BFSGraph {
+public class BFSGraphCO_1 {
     private int V;
     private LinkedList<Integer>[] adj;
 
