@@ -77,7 +77,7 @@ class BTreeNode {
     }
 }
 
-class BTree {
+class BTreeCO_2 {
     BTreeNode root;
     int t;
 
