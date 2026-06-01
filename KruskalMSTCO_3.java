@@ -7,7 +7,7 @@ class Edge implements Comparable<Edge> {
     }
 }
 
-public class KruskalMST {
+public class KruskalMSTCO_3 {
     int V = 5, E = 7;
 
     class Subset {
