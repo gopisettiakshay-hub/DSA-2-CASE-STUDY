@@ -1,4 +1,4 @@
-class FenwickTree {
+class FenwickTreeCO_2 {
     int[] BIT;
     int n;
 
