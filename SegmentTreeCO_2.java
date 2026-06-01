@@ -1,4 +1,4 @@
-class SegmentTree {
+class SegmentTreeCO_2 {
     int[] tree;
 
     public SegmentTree(int[] arr) {
