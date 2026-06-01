@@ -8,7 +8,7 @@ class AVLNode {
     }
 }
 
-public class AVLTree {
+public class AVLTreeCO_1 {
     AVLNode root;
 
     int height(AVLNode N) {
